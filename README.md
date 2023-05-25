@@ -7,7 +7,7 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mustafiz04/count.svg" />
 </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ovaixe" alt="ovaixe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-Gaud" alt="Rishabh-Gaud" /> </p>
 <!-- - 🤔 I'm looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/rishabhgaud7800/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.twitter.com/ovaixe/" target="_blank">
+  <a href="https://twitter.com/GaudRishabh" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
 <!--   <a href="https://instagram.com/ovaixe" target="_blank">
