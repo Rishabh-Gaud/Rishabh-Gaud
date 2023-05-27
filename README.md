@@ -9,15 +9,13 @@
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-Gaud" alt="Rishabh-Gaud" /> </p>
 <!-- - 🤔 I'm looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
-<!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
+<!-- - 📝 I regulary write articles on [`medium`](https://codesthaan.com/blog/). -->
 
 - 🔭 I'm currently employed at [`Medibuddy`](https://www.medibuddy.in/).
-- 👨‍ All of my projects are available at [`rishabhgaud.vercel.app`](https://rishabhgaud.vercel.app) 💻 .
+- 👨‍ All of my projects are available at [`rishabhgaud.app`](https://rishabhgaud.vercel.app) 💻 .
 - 💬 Ask me about **Web Development specially Backend.**
 - 📫 How to reach me rishabh.kumbh@gmail.com.
 - ⚡ Fun fact **I love watching Pokemon.**
-
-
 
 ## Things I code with
 <p align="center">
@@ -37,20 +35,25 @@
   <a href="https://twitter.com/GaudRishabh" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-<!--   <a href="https://instagram.com/ovaixe" target="_blank">
+<a href="https://instagram.com/riishabhgaud" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  -->
+
 </div> 
 
 <br>
 <p align ="center">
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud" width="45%"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud"/>
+  <a href="https://drive.google.com/file/d/1vXIBkfQTC4L9hGXE7raU-hnskxzgF1zn/view"><img src="https://i.ibb.co/h2B3Zbx/preview.png" alt="preview" border="0"></a>
+</p>  
+<p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Gaud&show_icons=true&locale=en" alt="Rishabh-Gaud" alt="Rishabh-Gaud" width="48%" /> 
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Rishabh-Gaud" alt="Rishabh-Gaud" width="48%"/>
+  
+</a> 
 </p>
-<p align ="center">
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud"/>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud"/>
-</p>
+
+
 
 
 <a href="https://www.buymeacoffee.com/rishabh781K" target="_blank">
