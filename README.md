@@ -15,7 +15,7 @@
 <!-- - 🤔 I'm looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`medium`](https://codesthaan.com/blog/). -->
 
-- 🔭 I'm currently employed at [`Medibuddy`](https://www.medibuddy.in/).
+- 🔭 I'm former SDE Intern at [`Medibuddy`](https://www.medibuddy.in/).
 - 👨‍ All of my projects are available at [`rishabhgaud.app`](https://rishabhgaud.vercel.app) 💻 .
 - 💬 Ask me about **DSA and Web Development specially Backend.**
 - 📫 How to reach me rishabh.kumbh@gmail.com.
