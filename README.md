@@ -7,7 +7,7 @@
   </a>
 </p> -->
 
-# <h1 align = "center">Hi, I'm Rishabh, Software Developer</h1>
+# <h1  align = "center">Hi, I'm Rishabh, Software Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-Gaud" alt="Rishabh-Gaud" /> </p>
 
