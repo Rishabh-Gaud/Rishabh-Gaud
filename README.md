@@ -15,11 +15,12 @@
 <!-- - 🤔 I'm looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`medium`](https://codesthaan.com/blog/). -->
 
+- 💻 Currently working on **Uchhal Project** - *one step toward success.*
 - 🔭 I'm former SDE Intern at [`Medibuddy`](https://www.medibuddy.in/).
 - 👨‍ All of my projects are available at [`rishabhgaud.app`](https://rishabhgaud.vercel.app) 💻 .
 - 💬 Ask me about **DSA and Web Development specially Backend.**
 - 📫 How to reach me rishabh.kumbh@gmail.com.
-- ⚡ Fun fact **I love watching Pokemon.**
+- ⚡ Fun fact **I love watching Pokemon and Naruto.**
   <br/><br/><br/><br/>
 <h2>Connect with me</h2>
 <p align="left">
