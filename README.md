@@ -16,6 +16,7 @@
 <!-- - 📝 I regulary write articles on [`medium`](https://codesthaan.com/blog/). -->
 
 - 💻 Currently working on **Uchhal Project** - *one step toward success.*
+- 🔭 I'm  SDE at [`CollegeIt`](https://collegeit.org/).
 - 🔭 I'm former SDE Intern at [`Medibuddy`](https://www.medibuddy.in/).
 - 👨‍ All of my projects are available at [`rishabhgaud.app`](https://rishabhgaud.vercel.app) 💻 .
 - 💬 Ask me about **DSA and Web Development specially Backend.**
