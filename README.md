@@ -46,7 +46,7 @@
 <p align ="center">
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud" width="45%"/>
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh-Gaud&theme=default" alt="Rishabh-Gaud"/>
-  <a href="https://drive.google.com/file/d/1vXIBkfQTC4L9hGXE7raU-hnskxzgF1zn/view"><img src="https://i.ibb.co/h2B3Zbx/preview.png" alt="preview" border="0"></a>
+<!--   <a href="https://drive.google.com/file/d/1vXIBkfQTC4L9hGXE7raU-hnskxzgF1zn/view"><img src="https://i.ibb.co/h2B3Zbx/preview.png" alt="preview" border="0"></a> -->
 </p>  
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Gaud&show_icons=true&locale=en" alt="Rishabh-Gaud" alt="Rishabh-Gaud" width="48%" /> 
